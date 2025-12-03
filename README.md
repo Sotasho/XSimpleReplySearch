@@ -1,4 +1,5 @@
-<img width="1200" height="1200" alt="logo" src="https://github.com/user-attachments/assets/0720f322-09a1-4bdc-857e-826eaac9fd85" />
+<img width="128" height="128" alt="2960378-128" src="https://github.com/user-attachments/assets/d85f7312-924a-4352-aec6-92648029c2a1" />
+
 
 # X Simple Reply Search
 
